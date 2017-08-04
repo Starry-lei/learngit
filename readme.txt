@@ -7,3 +7,4 @@ I am wangxu. yeah!
 lalalalalalala
 
 yeahyeahyeah!!wtf??!!
+Creating a new branch is quick.
