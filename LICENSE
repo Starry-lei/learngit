@@ -1,1 +1,8 @@
 wang xu shi yi ge da shuai bi
+
+#include <stdio.h>
+int main()
+{
+    int a;
+    int b;
+}
