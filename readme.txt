@@ -13,3 +13,4 @@ wangxu shi handsome 啊 !!
 fe  加的哦 ohmyga!
 分支管理策略
 Bug 分支
+master 's commit
